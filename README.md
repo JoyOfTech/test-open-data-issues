@@ -8,6 +8,6 @@
 
 3. Type a title and description for your issue.
 
-4. Choose a label (i.e. data request or question about existing data).
+4. Choose a <b>label</b> on the right-hand panel (i.e. data request or question about existing data).
 
 5. When you're finished, click <b>Submit new issue</b>.
