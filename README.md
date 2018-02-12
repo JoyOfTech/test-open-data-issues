@@ -1,15 +1,15 @@
 # test-open-data-issues
 
-How to add an Issue:
+<h1>How to add an Issue:</h1>
 
-On GitHub, navigate to the main page of the repository.
+1. On GitHub, navigate to the main page of the repository.
 
-Under your repository name, click <b>Issues</b>.
+2. Under your repository name, click <b>Issues</b>.
 
-Click <b>New issue</b>.
+3. Click <b>New issue</b>.
 
-Type a title and description for your issue.
+4. Type a title and description for your issue.
 
-Choose a label (i.e. data request or question about existing data)
+5. Choose a label (i.e. data request or question about existing data)
 
-When you're finished, click <b>Submit new issue</b>.
+6. When you're finished, click <b>Submit new issue</b>.
