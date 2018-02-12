@@ -1,2 +1,7 @@
 # test-open-data-issues
-Creating an example of an Open Data repo, primarily for the public to request/discuss datasets by creating a GitHub issue
+
+How to add an Issue:
+
+On GitHub, navigate to the main page of the repository.
+
+Issues tab Under your repository name, click  Issues.
