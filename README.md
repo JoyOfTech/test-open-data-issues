@@ -1,6 +1,6 @@
 # test-open-data-issues
 
-<h1> Welcome to the DC Open Requests Repo!</h1>
+<h1> Welcome to the DC Open Data Requests Repo!</h1>
 
 <h3>How to add an Issue:</h3>
 
