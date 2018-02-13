@@ -2,7 +2,7 @@
 
 <h1> Welcome to the DC Open Data Requests Repo!</h1>
 
-<h3>How to add an Issue:</h3>
+<h3>How to submit an Issue:</h3>
 
 1. Click the <b>Issues</b> tab above.
 
