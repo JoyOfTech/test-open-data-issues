@@ -1,6 +1,8 @@
 # test-open-data-issues
 
-<h1>How to add an Issue:</h1>
+<h1> Welcome to the DC Open Requests Repo!</h1>
+
+<h3>How to add an Issue:</h3>
 
 1. Click the <b>Issues</b> tab above.
 
