@@ -1,6 +1,7 @@
 # test-open-data-issues
 
 <h2> Welcome to the DC Open Data Requests and Contributions Repo!</h2>
+<!--- OD DC Graphic ---> 
 <p>Open Data DC Starter Kit <a href ="https://github.com/DCgov/opendatadc-starterkit">here</a></p>
 <p>Open Data DC Site Samples <a href="https://github.com/DCgov/opendatadc-opendataSiteSamples">here</a></p>
 
