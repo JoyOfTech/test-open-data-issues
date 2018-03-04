@@ -14,3 +14,5 @@
 3. Choose a <b>label</b> on the right-hand panel (i.e. "data request" or "question about data").
 
 3. When you're finished, click <b>Submit new issue</b>.
+
+<!--- use this templated for prefilled issues: https://github.com/JoyOfTech/test-open-data-issues/issues/new?labels[]=Request%20Management&labels[]=[Type]%20Bug&title=Request:&milestone=Request%20Management:%20m6&assignee=ebinnion&body=This%20is%20a%20prefilled%20issue and more info here: https://eric.blog/2016/01/08/prefilling-github-issues/--->
