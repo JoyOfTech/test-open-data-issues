@@ -1,6 +1,8 @@
 # test-open-data-issues
 
-<h1> Welcome to the DC Open Data Requests Repo!</h1>
+<h2> Welcome to the DC Open Data Requests and Contributions Repo!</h2>
+Open Data DC starter kit here: https://github.com/DCgov/opendatadc-starterkit
+Open Data DC site samples here: https://github.com/DCgov/opendatadc-opendataSiteSamples
 
 <h3>How to submit an Issue:</h3>
 
