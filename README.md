@@ -1,4 +1,4 @@
-# test-open-data-issues
+<p align="center"><img width=12.5% src="https://github.com/JoyOfTech/test-open-data-issues/blob/master/media/OpenData-Twitter-Cover.png"></p>
 
 <h2> Welcome to the DC Open Data Requests and Contributions Repo!</h2>
 <!--- OD DC Graphic ---> 
