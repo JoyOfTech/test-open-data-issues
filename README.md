@@ -7,12 +7,9 @@
 
 <h3>Request a Dataset or Contribute to Open Data DC</h3>
 
-1. Start a <a href = "https://github.com/JoyOfTech/test-open-data-issues/issues/new">New Issue</a>.
-
-2. Type a title and description for your Issue.
-
-3. Choose a <b>label</b> on the right-hand panel (i.e. "data request" or "question about data").
-
-3. When you're finished, click <b>Submit new issue</b>.
+-<a href = "https://github.com/JoyOfTech/test-open-data-issues/issues/new?labels=data%20request&title=Data%20Request:&milestone=Data%20Request&body=Please%20provide%20description%20of%20your%20data%20request:">New Data Request</a>.
+-Report Data Missing from Existing Dataset
+-Request Information on Existing Dataset
+-Report a Site Bug
 
 <!--- use this templated for prefilled issues: https://github.com/JoyOfTech/test-open-data-issues/issues/new?labels[]=Request%20Management&labels[]=[Type]%20Bug&title=Request:&milestone=Request%20Management:%20m6&assignee=ebinnion&body=This%20is%20a%20prefilled%20issue and more info here: https://eric.blog/2016/01/08/prefilling-github-issues/--->
