@@ -1,11 +1,11 @@
 <p align="center"><img width=100% src="https://github.com/JoyOfTech/test-open-data-issues/blob/master/media/OpenData-Twitter-Cover.png"></p>
 
-<h2> Welcome to the DC Open Data Requests and Contributions Repo!</h2>
+<h2> Welcome to the Open Data DC Requests and Contributions Repo!</h2>
 <!--- OD DC Graphic ---> 
 <p>Learn how to build your own visuals utilizing APIs with the <a href ="https://github.com/DCgov/opendatadc-starterkit">Open Data DC Starter Kit</a>.</p>
 <p>Find our Open Data DC site samples in <a href="https://github.com/DCgov/opendatadc-opendataSiteSamples">ESRI's opendata site builder</a>.</p>
 
-<h3>Request a Dataset or Contribute to Open Data DC</h3>
+<h2>Request a Dataset or Contribute to Open Data DC</h2>
 
 -<a href = "https://github.com/JoyOfTech/test-open-data-issues/issues/new?labels=data%20request&title=Data%20Request:&milestone=Data%20Request&body=Please%20provide%20description%20of%20your%20data%20request:">New Data Request</a>
 
