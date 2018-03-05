@@ -7,9 +7,12 @@
 
 <h3>Request a Dataset or Contribute to Open Data DC</h3>
 
--<a href = "https://github.com/JoyOfTech/test-open-data-issues/issues/new?labels=data%20request&title=Data%20Request:&milestone=Data%20Request&body=Please%20provide%20description%20of%20your%20data%20request:">New Data Request</a>.
+-<a href = "https://github.com/JoyOfTech/test-open-data-issues/issues/new?labels=data%20request&title=Data%20Request:&milestone=Data%20Request&body=Please%20provide%20description%20of%20your%20data%20request:">New Data Request</a>
+
+-Question About Data
+
 -Report Data Missing from Existing Dataset
--Request Information on Existing Dataset
+
 -Report a Site Bug
 
 <!--- use this templated for prefilled issues: https://github.com/JoyOfTech/test-open-data-issues/issues/new?labels[]=Request%20Management&labels[]=[Type]%20Bug&title=Request:&milestone=Request%20Management:%20m6&assignee=ebinnion&body=This%20is%20a%20prefilled%20issue and more info here: https://eric.blog/2016/01/08/prefilling-github-issues/--->
