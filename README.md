@@ -7,7 +7,7 @@
 
 <h2>Request a Dataset or Contribute to Open Data DC</h2>
 
--<a href = "https://github.com/JoyOfTech/test-open-data-issues/issues/new?labels=data%20request&title=Data%20Request:&milestone=Data%20Request&body=Please%20provide%20description%20of%20your%20data%20request:">New Data Request</a>
+-<a href = "https://github.com/JoyOfTech/test-open-data-issues/issues/new?labels=data%20request&title=Name%20of%20Dataset:&milestone=Data%20Request&body=Please%20provide%20description%20of%20your%20data%20request:">New Data Request</a>
 
 -Question About Data
 
