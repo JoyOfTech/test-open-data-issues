@@ -7,7 +7,7 @@
 		<p>Connecting You with Government Data</p>
 	</div>
 </div>
-[![GitHub Issues](https://img.shields.io/github/issues/anfederico/Clairvoyant.svg)](https://github.com/JoyOfTech/test-open-data-issues/issues)
+[![GitHub Issues](https://img.shields.io/github/issues/badges/shields.svg)](https://github.com/JoyOfTech/test-open-data-issues/issues)
 <h2> Welcome to the Open Data DC Requests and Contributions Repo!</h2>
 
 <p>Learn how to build your own visuals utilizing APIs with the <a href ="https://github.com/DCgov/opendatadc-starterkit">Open Data DC Starter Kit</a>.</p>
