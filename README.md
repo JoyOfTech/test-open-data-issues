@@ -15,6 +15,6 @@
 
 -<a href = "https://github.com/JoyOfTech/test-open-data-issues/issues/new?labels=ideas&title=Idea%3A&milestone=Ideas&body=Please%20provide%20description%20of%20your%20Open%20Data%20DC%20idea%3A">Ideas for Open Data DC?</a>
 
--<a href = "https://github.com/JoyOfTech/test-open-data-issues/issues/new?labels=problem%3A%20site%20bug&title=Website%20Issue%20Title%3A&milestone=Site%20Bug&body=Please%20provide%20description%20of%20website%20issue%3A">Report a Site Bug or Issue</a>
+-<a href = "https://github.com/JoyOfTech/test-open-data-issues/issues/new?labels=problem%3A%20site%20bug&title=Site%20Issue%3A&milestone=Site%20Bug&body=Please%20provide%20description%20of%20website%20issue%3A">Report a Site Bug or Issue</a>
 
 <!--- use this templated for prefilled issues: https://github.com/JoyOfTech/test-open-data-issues/issues/new?labels[]=Request%20Management&labels[]=[Type]%20Bug&title=Request:&milestone=Request%20Management:%20m6&assignee=ebinnion&body=This%20is%20a%20prefilled%20issue and more info here: https://eric.blog/2016/01/08/prefilling-github-issues/--->
