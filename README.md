@@ -1,6 +1,7 @@
 <!--- <p align="center"><img width=100% src="https://github.com/JoyOfTech/test-open-data-issues/blob/master/media/OpenData-Twitter-Cover.png"></p> --->
 
-<section style="background-color: #ffffff; background-image: url(http://octo.dc.gov/sites/default/files/dc/sites/octo/multimedia_content/images/Open-Data-Banner-Image4.png); background-size: cover; color: #586370" id="ember537" class="layout-section ember-view">
+<p align="center"><img width=100% src="http://octo.dc.gov/sites/default/files/dc/sites/octo/multimedia_content/images/Open-Data-Banner-Image4.png"></p>
+
 <div class="container ">
     <div id="ember543" class="bs-row row ember-view">  
     <div id="ember549" class="col-sm-12 ember-view"><div style="min-height:350px;" id="ember556" class="jumbotron text-center ember-view">
