@@ -7,12 +7,14 @@
 
 <h2>Request a Dataset or Contribute to Open Data DC</h2>
 
--<a href = "https://github.com/JoyOfTech/test-open-data-issues/issues/new?labels=data%20request&title=Name%20of%20Dataset:&milestone=Data%20Request&body=Please%20provide%20description%20of%20your%20data%20request:">New Data Request</a>
+-<a href = "https://github.com/JoyOfTech/test-open-data-issues/issues/new?labels=data%20request&title=Dataset%20Title%3A&milestone=Data%20Request&body=Please%20provide%20description%20of%20your%20data%20request%3A">New Data Request</a>
 
--Question About Data
+-<a href = "https://github.com/JoyOfTech/test-open-data-issues/issues/new?labels=question%20about%20data&title=Name%20of%20Dataset%3A&milestone=Data%20Question&body=Please%20provide%20deatailed%20description%20of%20dataset%20inquiry%3A">Question about Existing Dataset</a>
 
--Report Data Missing from Existing Dataset
+-<a href = "https://github.com/JoyOfTech/test-open-data-issues/issues/new?labels=problem%3A%20data%20missing&title=Missing%20Data%20Title%3A&milestone=Missing%20Data&body=Please%20provide%20description%20of%20missing%20data%3A">Report Data Missing from Existing Dataset</a>
 
--Report a Site Bug
+-<a href = "https://github.com/JoyOfTech/test-open-data-issues/issues/new?labels=ideas&title=Idea%3A&milestone=Ideas&body=Please%20provide%20description%20of%20your%20Open%20Data%20DC%20idea%3A">Ideas for Open Data DC?</a>
+
+-<a href = "https://github.com/JoyOfTech/test-open-data-issues/issues/new?labels=problem%3A%20site%20bug&title=Website%20Issue%20Title%3A&milestone=Site%20Bug&body=Please%20provide%20description%20of%20website%20issue%3A">Report a Site Bug or Issue</a>
 
 <!--- use this templated for prefilled issues: https://github.com/JoyOfTech/test-open-data-issues/issues/new?labels[]=Request%20Management&labels[]=[Type]%20Bug&title=Request:&milestone=Request%20Management:%20m6&assignee=ebinnion&body=This%20is%20a%20prefilled%20issue and more info here: https://eric.blog/2016/01/08/prefilling-github-issues/--->
