@@ -1,7 +1,11 @@
-<p align="center"><img width=100% src="https://github.com/JoyOfTech/test-open-data-issues/blob/master/media/OpenData-Twitter-Cover.png"></p>
+<!--- <p align="center"><img width=100% src="https://github.com/JoyOfTech/test-open-data-issues/blob/master/media/OpenData-Twitter-Cover.png"></p> --->
+
+<section style="background-color: #ffffff; background-image: url(http://octo.dc.gov/sites/default/files/dc/sites/octo/multimedia_content/images/Open-Data-Banner-Image4.png); background-size: cover; color: #586370" id="ember537" class="layout-section ember-view"><div class="container ">
+    <div id="ember543" class="bs-row row ember-view">  <div id="ember549" class="col-sm-12 ember-view"><div style="min-height:350px;" id="ember556" class="jumbotron text-center ember-view"><h1>Open Data DC</h1>
+<p>Connecting You with Government Data</p>
 
 <h2> Welcome to the Open Data DC Requests and Contributions Repo!</h2>
-<!--- OD DC Graphic ---> 
+
 <p>Learn how to build your own visuals utilizing APIs with the <a href ="https://github.com/DCgov/opendatadc-starterkit">Open Data DC Starter Kit</a>.</p>
 <p>Find our Open Data DC site samples in <a href="https://github.com/DCgov/opendatadc-opendataSiteSamples">ESRI's opendata site builder</a>.</p>
 
