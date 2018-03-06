@@ -1,11 +1,10 @@
 <!--- <p align="center"><img width=100% src="https://octo.dc.gov/sites/default/files/dc/sites/octo/multimedia_content/images/Open-Data-Banner-Image4.png"></p> --->
 
-<section style="background-color: #ffffff; background-image: url(http://octo.dc.gov/sites/default/files/dc/sites/octo/multimedia_content/images/Open-Data-Banner-Image4.png); background-size: cover; color: #586370">
+<img src ="http://octo.dc.gov/sites/default/files/dc/sites/octo/multimedia_content/images/Open-Data-Banner-Image4.png">
 	<div class="container ">
     <h1>Open Data DC</h1>
 <p>Connecting You with Government Data</p>
 	</div>
-</section>
 
 <h2> Welcome to the Open Data DC Requests and Contributions Repo!</h2>
 
