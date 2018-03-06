@@ -1,4 +1,4 @@
-<p align="center"><img width=100% src="https://github.com/JoyOfTech/test-open-data-issues/blob/master/media/OpenData-Twitter-Cover.png"></p>
+<p align="center"><img width=100% src="https://octo.dc.gov/sites/default/files/dc/sites/octo/multimedia_content/images/Open-Data-Banner-Image4.png"></p>
 
 
 <h2> Welcome to the Open Data DC Requests and Contributions Repo!</h2>
