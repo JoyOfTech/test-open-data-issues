@@ -2,8 +2,7 @@
 
 <div class="container">
 	<img src="http://octo.dc.gov/sites/default/files/dc/sites/octo/multimedia_content/images/Open-Data-Banner-Image4.png" style="width:100%;">
-	<div class="centered"><h1>Open Data DC</h1><p>Connecting You with Government Data</p></div>
-</div>
+	<div class="centered">Open Data DC Connecting You with Government Data</div>
 
 <h2> Welcome to the Open Data DC Requests and Contributions Repo!</h2>
 
