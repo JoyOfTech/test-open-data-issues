@@ -1,4 +1,4 @@
-<p align="center"><img width=100% src="https://octo.dc.gov/sites/default/files/dc/sites/octo/multimedia_content/images/Open-Data-Banner-Image4.png"></p>
+<p align="center"><img width=100% src="https://github.com/JoyOfTech/test-open-data-issues/blob/master/media/OpenData-Twitter-Cover.png"></p>
 <div class="container">
 	<img src="http://octo.dc.gov/sites/default/files/dc/sites/octo/multimedia_content/images/Open-Data-Banner-Image4.png" style="width:100%;">
 	<div class="centered">
