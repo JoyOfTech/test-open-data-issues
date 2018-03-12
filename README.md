@@ -10,10 +10,9 @@
 
 <h2>Request a Dataset or Contribute to Open Data DC</h2>
 
--<a href = "https://github.com/JoyOfTech/test-open-data-issues/issues/new?labels=data%20request&title=Dataset%20Title%3A&milestone=Data%20Request&body=Provide%20description%20of%20your%20data%20request.%20Include%20links%20to%20existing%20data%20and%20other%20resources%3A">New Data Request</a>
-
-
 <ul>
+<li><a href = "https://github.com/JoyOfTech/test-open-data-issues/issues/new?labels=data%20request&title=Dataset%20Title%3A&milestone=Data%20Request&body=Provide%20description%20of%20your%20data%20request.%20Include%20links%20to%20existing%20data%20and%20other%20resources%3A">New Data Request</a></li>
+
 <li><a href = "https://github.com/JoyOfTech/test-open-data-issues/issues/new?labels=question%20about%20data&title=Name%20of%20Dataset%3A&milestone=Data%20Question&body=Provide%20deatailed%20description%20of%20dataset%20inquiry%3A">Question about Existing Dataset</a></li>
 
 <li><a href = "https://github.com/JoyOfTech/test-open-data-issues/issues/new?labels=problem%3A%20data%20missing&title=Missing%20Data%20Title%3A&milestone=Missing%20Data&body=Provide%20description%20of%20missing%20data%3A">Report Data Missing from Existing Dataset</a></li>
