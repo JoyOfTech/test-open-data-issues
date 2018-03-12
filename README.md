@@ -9,6 +9,7 @@
 <p>Find our Open Data DC site samples in <a href="https://github.com/DCgov/opendatadc-opendataSiteSamples">ESRI's opendata site builder</a>.</p>
 
 <h2>Request a Dataset or Contribute to Open Data DC</h2>
+<p>If you have a GitHub Account...</p>
 
 <ul>
 <li><a href = "https://github.com/JoyOfTech/test-open-data-issues/issues/new?labels=data%20request&title=Dataset%20Title%3A&milestone=Data%20Request&body=Provide%20description%20of%20your%20data%20request.%20Include%20links%20to%20existing%20data%20and%20other%20resources%3A">New Data Request</a></li>
@@ -21,4 +22,7 @@
 
 <li><a href = "https://github.com/JoyOfTech/test-open-data-issues/issues/new?labels=problem%3A%20site%20bug&title=Site%20Issue%3A&milestone=Site%20Bug&body=Please%20provide%20description%20of%20website%20issue%3A">Report a Site Bug or Issue</a></li>
 </ul>
-<!--- use this templated for prefilled issues: https://github.com/JoyOfTech/test-open-data-issues/issues/new?labels[]=Request%20Management&labels[]=[Type]%20Bug&title=Request:&milestone=Request%20Management:%20m6&assignee=ebinnion&body=This%20is%20a%20prefilled%20issue and more info here: https://eric.blog/2016/01/08/prefilling-github-issues/--->
+<!--- use this templated for prefilled issues:https://eric.blog/2016/01/08/prefilling-github-issues/--->
+
+<p>New to GitHub? Sign up for a <b>free</b> account <a href="https://github.com/join">here</a>.</p>
+<p>Or email us [OCTO OD Email]...</p>
