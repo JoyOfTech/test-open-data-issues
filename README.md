@@ -9,7 +9,8 @@
 <p>Contribute to the <a href="https://github.com/DCgov/enterprise-dataset-inventory">Enterprise Dataset Inventory</p>
 
 <h2>Request a Dataset or Contribute to Open Data DC</h2>
-<p>New to GitHub? Sign up for a <b>free</b> account <a href="https://github.com/join">here</a></p>
+
+<p>New to GitHub? Sign up for a <b>free</b> account<a href="https://github.com/join"> here</a></p>
 <p>Existing members, create an issue for:</p>
 
 <ul>
