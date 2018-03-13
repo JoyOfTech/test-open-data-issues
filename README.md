@@ -1,7 +1,6 @@
 <p align="center"><img width=100% src="https://github.com/JoyOfTech/test-open-data-issues/blob/master/media/Open-Data-Banner.png"></p>
 
 [![GitHub Issues](https://img.shields.io/github/issues/badges/shields.svg)](https://github.com/JoyOfTech/test-open-data-issues/issues)
-(add badges)
 
 <h2> Welcome to the Open Data DC Requests and Contributions Repo!</h2>
 
@@ -26,4 +25,4 @@
 </ul>
 <!--- use this templated for prefilled issues:https://eric.blog/2016/01/08/prefilling-github-issues/--->
 <br>
-<p>Or email us [OCTO OD Email]...</p>
+<p>Or email us [OCTO OD Email]</p>
