@@ -6,11 +6,10 @@
 
 <p>Learn how to build your own visuals utilizing APIs with the <a href ="https://github.com/DCgov/opendatadc-starterkit">Open Data DC Starter Kit</a>.</p>
 <p>Find our Open Data DC site samples in <a href="https://github.com/DCgov/opendatadc-opendataSiteSamples">ESRI's opendata site builder</a>.</p>
-<p>Contribute to the <a href="https://github.com/DCgov/enterprise-dataset-inventory">Enterprise Dataset Inventory</p>
+<p>Contribute to the <a href="https://github.com/DCgov/enterprise-dataset-inventory">Enterprise Dataset Inventory</a></p>
 
 <h2>Request a Dataset or Contribute to Open Data DC</h2>
 
-<p>New to GitHub? Sign up for a <b>free</b> account<a href="https://github.com/join"> here</a></p>
 <p>Existing members, create an issue for:</p>
 
 <ul>
@@ -26,4 +25,5 @@
 </ul>
 <!--- use this templated for prefilled issues:https://eric.blog/2016/01/08/prefilling-github-issues/--->
 <br>
+<p>New to GitHub? Sign up for a <b>free</b> account<a href="https://github.com/join"> here</a></p>
 <p>Or email us [OCTO OD Email]</p>
