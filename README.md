@@ -26,4 +26,4 @@
 <!--- use this templated for prefilled issues:https://eric.blog/2016/01/08/prefilling-github-issues/--->
 <br>
 <p>New to GitHub? Sign up for a <b>free</b> account<a href="https://github.com/join"> here</a></p>
-<p>Or email us at <a href="mailto:open.data@dc.gov"open.data@dc.gov</a></p>
+<p>Or email us at <a href="mailto:open.data@dc.gov">open.data@dc.gov</a></p>
