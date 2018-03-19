@@ -1,4 +1,4 @@
-<p align="center"><img width=100% src="https://github.com/JoyOfTech/test-open-data-issues/blob/master/media/Open-Data-Banner.png"></p>
+<p align="center"><img width=90% src="https://github.com/JoyOfTech/test-open-data-issues/blob/master/media/Open-Data-Banner.png"></p>
 
 [![GitHub Issues](https://img.shields.io/github/issues/badges/shields.svg)](https://github.com/JoyOfTech/test-open-data-issues/issues)
 
