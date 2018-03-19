@@ -13,7 +13,7 @@
 <p>Existing members, create an issue for:</p>
 
 
-<a href = "https://github.com/JoyOfTech/test-open-data-issues/issues/new?labels=data%20request&title=Dataset%20Title%3A&milestone=Data%20Request&body=Provide%20description%20of%20your%20data%20request.%20Include%20links%20to%20existing%20data%20and%20other%20resources%3A"><img src ="https://github.com/JoyOfTech/test-open-data-issues/blob/master/media/DataRequest.png"></a></li>
+<a href = "https://github.com/JoyOfTech/test-open-data-issues/issues/new?labels=data%20request&title=Dataset%20Title%3A&milestone=Data%20Request&body=Provide%20description%20of%20your%20data%20request.%20Include%20links%20to%20existing%20data%20and%20other%20resources%3A"><img width=70% src="https://github.com/JoyOfTech/test-open-data-issues/blob/master/media/DataRequest.png" ></a></li>
 
 <a href = "https://github.com/JoyOfTech/test-open-data-issues/issues/new?labels=question%20about%20data&title=Name%20of%20Dataset%3A&milestone=Data%20Question&body=Provide%20deatailed%20description%20of%20dataset%20inquiry%3A"><img src ="https://github.com/JoyOfTech/test-open-data-issues/blob/master/media/DatasetQuestion.png"></a>
 
